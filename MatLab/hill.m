@@ -1,0 +1,15 @@
+function [decode] = hill(code,cle)
+    %HILL Summary of this function goes here
+    %   Detailed explanation goes here
+    code = erase(lower(code), ' ');
+    n = 2; % taille du lot
+    decode = '';
+    if (mod(length(code),n)~=0)
+        code = [code,'a'];
+        impair = true;
+    end
+    
+    for i = 1:2:length(code)
+        decode = [decode, (mod((cle * (code(i:i+1) - 97)'),26)' + 97)))]
+    end
+end
