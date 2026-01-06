@@ -532,6 +532,7 @@ l'ensemble de l'algorithme à sont dans les fichiers lister ci dessous
 - tri/tri_rapide.py
 - save_excel.py
 - Benchmark_tri.py
+- fmt_time.py
 
 **Analyse du code**:
 1. Génération d’une liste  de taille taille avec des valeurs aléatoires.
@@ -547,4 +548,4 @@ l'ensemble de l'algorithme à sont dans les fichiers lister ci dessous
 11. Affichage du graphique à l’écran (si possible).
 
 **Conclusion**:
-> d'après les chiffres qu'a pu générer le benchmark on peut conclure que le tri rapide est le plus optimisé alors que le tri à bulle est le moins optimisé avec le tri par insertion
+> d'après les chiffres qu'a pu générer le benchmark on peut conclure que le tri casier est le plus optimisé alors que le tri à bulle est le moins optimisé avec le tri par insertion
