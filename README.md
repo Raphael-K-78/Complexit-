@@ -1,4 +1,4 @@
-# TD Complexité - Raphaël Kondratiuk : MMi3-FA-DW
+# Complexité - Raphaël Kondratiuk : MMi3-FA-DW
 ## Introduction
 La complexité d'un Algorithme mesure les valeurs de temps d'éxécution et de mémoire nécéssaire selon la taille des données d'entrée (N). L'objectif est d'évaluer le nombre d'opération en fonction de N. L'objectif est de comparer divers algorithmes afin de déterminer le plus éfficace pour résoudre un problème donnée.
  
