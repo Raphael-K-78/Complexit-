@@ -184,7 +184,7 @@ Dans la pire des situations l'élément recherché est à la fin du tableau ou a
 ### 2.2 - Recherche dichotomique dans un tableau trié
 L'objectif est de faire en sorte de réduire le nombre de comparaison grâce au faite que le tableau est trié
 
-** Algorithme en python**:
+**Algorithme en python**:
 ```py
 def recherche_dichotomique(tab, cible):
     gauche = 0
